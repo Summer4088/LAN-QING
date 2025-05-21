@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "devDependencies": {
     "autoprefixer": "^10.4.21",
@@ -5,3 +6,12 @@
     "tailwindcss": "^4.1.7"
   }
 }
+=======
+{
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.1.7"
+  }
+}
+>>>>>>> a597f7a5c4d47ecc984027c7111e81fde85dbdfa
