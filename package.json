@@ -1,17 +1,25 @@
-<<<<<<< HEAD
 {
+  "name": "lan-qing",
+  "version": "1.0.0",
+  "description": "爱的迷宫游戏",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server",
+    "build": "postcss src/tailwind.css -o dist/style.css"
+  },
+  "keywords": [
+    "迷宫游戏",
+    "互动游戏",
+    "HTML5"
+  ],
+  "author": "Summer4088",
+  "license": "MIT",
   "devDependencies": {
-    "autoprefixer": "^10.4.21",
-    "postcss": "^8.5.3",
-    "tailwindcss": "^4.1.7"
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.23",
+    "tailwindcss": "^3.3.2"
+  },
+  "dependencies": {
+    "font-awesome": "^4.7.0"
   }
-}
-=======
-{
-  "devDependencies": {
-    "autoprefixer": "^10.4.21",
-    "postcss": "^8.5.3",
-    "tailwindcss": "^4.1.7"
-  }
-}
->>>>>>> a597f7a5c4d47ecc984027c7111e81fde85dbdfa
+}    
